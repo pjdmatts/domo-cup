@@ -1,4 +1,4 @@
-#Things We Need To Do To Build The Domo-Cup!
+# Things We Need To Do To Build The Domo-Cup!
 
 - [ ] Knockout Refresher
 - [ ] Mock-Ups
